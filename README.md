@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" alt="MasterHead" width="100%">
+  <img src="https://miro.medium.com/v2/0*ziJgXyS25Cy7Zazh.gif" alt="MasterHead" width="100%">
 </div>
 <h1 align="center">Hi 👋, I'm Raja Muppidi</h1>
 <h3 align="center">Healthcare Data Scientist and Analyst | AI Enthusiast | Bridging Healthcare and Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5612AQHfyMACEqZ1fQ/article-cover_image-shrink_600_2000/0/1650422813943?e=2147483647&v=beta&t=darFIS4u6LNE_NvhcoCyd-fiYy4X9YevIbe193wNiJM">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🔭 I’m currently working on **Improving machine learning models for early detection of critical health conditions**
 
