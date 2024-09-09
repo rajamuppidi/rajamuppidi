@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dr.raja-muppidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr.raja-muppidi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dr.raja-muppidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr.raja-muppidi" height="30" width="40" /></a>
 <a href="/https://rajamuppidi.com/#projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rajamuppidi.com/#projects" height="30" width="40" /></a>
 </p>
 
